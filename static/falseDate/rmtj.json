@@ -1,0 +1,34 @@
+{
+	"data":[
+		{
+			"name1":"净化品类日",
+			"name2":"净化器低至699",
+			"img":"./static/images/rmtj/one.png"
+		},
+		{
+			"name1":"秒杀全球",
+			"name2":"黄金眼膜68抢",
+			"img":"./static/images/rmtj/two.png"
+		},
+		{
+			"name1":"数码学生价",
+			"name2":"满99减30",
+			"img":"./static/images/rmtj/three.png"
+		},
+		{
+			"name1":"依泉喷雾",
+			"name2":"喷雾低至29元",
+			"img":"./static/images/rmtj/four.png"
+		},
+		{
+			"name1":" 宠物食品",
+			"name2":"低至46元起",
+			"img":"./static/images/rmtj/five.png"
+		},
+		{
+			"name1":"净化品类日",
+			"name2":"净化器低至699",
+			"img":"./static/images/rmtj/six.png"
+		}
+	]
+}

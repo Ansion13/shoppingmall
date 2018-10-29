@@ -1,0 +1,21 @@
+{
+	"data":[
+		{
+			"name":"20cm一只",
+			"choosed":false
+		},
+		{
+			"name":"20cm一对",
+			"choosed":true
+		},
+		{
+			"name":"30cm一只",
+			"choosed":false
+		},
+		{
+			"name":"30cm一对",
+			"choosed":false
+		}
+	],
+	"num":{"num":200}
+}

@@ -1,0 +1,18 @@
+{
+	"data":[
+		{
+			"img":"./static/images/more_things/3.png",
+			"name1":"创意北欧盘子纯色黑白盘子哑光简约小鸟图案美",
+			"name2":"已选：套2鸟赞浅式小盘",
+			"price":"¥22",
+			"type":true
+		},
+		{
+			"img":"./static/images/more_things/4.png",
+			"name1":"misfit shine2 2016版运动腕带表",
+			"name2":"已选：黑色轻装",
+			"price":"",
+			"type":false
+		}
+	]
+}

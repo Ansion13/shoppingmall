@@ -1,0 +1,29 @@
+{
+	"data":[
+		{
+		"pic":"./static/images/index_pic/jnp.png",
+		"name":"纪念品",
+		"url":""
+		},
+		{
+		"pic":"./static/images/index_pic/hhys.png",
+		"name":"绘画艺术",
+		"url":""
+		},
+		{
+		"pic":"./static/images/index_pic/wdys.png",
+		"name":"舞蹈艺术",
+		"url":""
+		},
+		{
+		"pic":"./static/images/index_pic/jyzb.png",
+		"name":"剧院周边",
+		"url":""
+		},
+		{
+		"pic":"./static/images/index_pic/gwc.png",
+		"name":"购物车",
+		"url":"/shoppingCard"
+		}
+	]
+}
